@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TAPTAP</string>
+    <string name="login">TapTap</string>
+    <string name="tv_username">用户:</string>
+    <string name="tv_password">密码:</string>
+    <string name="bt_log">登录</string>
+    <string name="bt_bos">取消</string>
+    <string name="bt_register">注册</string>
+    <string name="et_username">输入用户名</string>
+    <string name="et_password">输入密码</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="注册">注册</string>
+    <string name="确认密码">确认密码</string>
+    <string name="输入账号">输入账号</string>
+    <string name="输入密码">输入密码</string>
+    <string name="取消">取消</string>
+    <string name="返回登陆">返回登陆</string>
+
+</resources>

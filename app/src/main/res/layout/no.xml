@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:id="@+id/no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="账号或密码错误 !  请点击返回键返回上一页面重新验证 ! "
+        />
+    <Button
+        android:id="@+id/login_button2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/no"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:text="@string/返回登陆"
+        android:textColor="#ffffffff"
+        android:textSize="16sp" />
+
+</RelativeLayout>
